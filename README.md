@@ -4,7 +4,7 @@ Task-2 of my internship under InternCrowd : Making a login/signup page for Inter
 ![To-Do List Preview](https://github.com/Ajinkya2217/Login-Signup-Page/blob/main/Screenshot%202023-08-04%20153928.png)
 ![To-Do List Preview](https://github.com/Ajinkya2217/Login-Signup-Page/blob/main/Screenshot%202023-08-04%20154016.png)
 
-🚀 **Intern Crowd Login/Signup Page**
+## 🚀 Intern Crowd Login/Signup Page
 
 Welcome to the GitHub repository for the Intern Crowd Login/Signup Page! This repository contains the source code and assets for the engaging login page of Intern Crowd, a platform that connects aspiring interns with the perfect internship opportunities.
 
